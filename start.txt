@@ -1,0 +1,5 @@
+dfx new hello -- commend to build new project
+dfx start -- start local internet computer
+dfx deploy -- to deploy the new project on local computer network
+npm start
+rm -rf .dfx // to clear all variables
